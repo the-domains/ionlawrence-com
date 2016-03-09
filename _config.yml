@@ -1,0 +1,28 @@
+name: ionlawrence.com
+favicon: null
+layout_spectrum: 0.8492459221743047
+typography_spectrum: 0.27912573888897896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4827036508359015
+  lightness: 0.39157174550928175
+  saturation: 0.3122962429188192
+  rhythmicContrast: 0.5181471460964531
+purpose: []
