@@ -1,19 +1,4 @@
-name: ionlawrence.com
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.48705
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#6064c3'
@@ -25,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ionlawrence.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Use what You can
 purpose: []
